@@ -1,0 +1,3 @@
+{"tags":["multiline"],"host":"testing_host","message":"2019-1\nhello\nworld","@version":"1","@timestamp":"2019-03-05T09:30:26.820Z"}
+{"tags":["multiline"],"host":"testing_host","message":"2019-2\naa","@version":"1","@timestamp":"2019-03-05T09:30:26.823Z"}
+{"tags":["multiline"],"host":"testing_host","message":"2019-3\n  bb","@version":"1","@timestamp":"2019-03-05T09:30:26.824Z"}

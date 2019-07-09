@@ -1,0 +1,4 @@
+221.188.19.132 - info: [308] <= [/api/notice/checkKid/106290/aaa] [200] [0.033 ms]
+221.188.19.132 - info: [308] <= [/api/notice/checkKid/106290] [200] [0.033 ms]
+221.188.19.132 - info: [308] <= [/api/notice/checkKid/abc] [200] [0.033 ms]
+221.188.19.132 - info: [308] <= [abc] [200] [0.888 ms]

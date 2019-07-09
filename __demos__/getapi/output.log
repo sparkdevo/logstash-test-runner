@@ -1,0 +1,4 @@
+{"loglevel":"info","host":"testing_host","abcd":"0.033:0.033","apimethod":"/api/notice/checkKid/","responsestatus":200,"responsetime":0.033,"@version":"1","@timestamp":"2019-03-05T09:30:26.823Z"}
+{"loglevel":"info","host":"testing_host","abcd":"0.033:0.033","apimethod":"/api/notice/checkKid/","responsestatus":200,"responsetime":0.033,"@version":"1","@timestamp":"2019-03-05T09:30:26.820Z"}
+{"loglevel":"info","host":"testing_host","abcd":"0.033:0.033","apimethod":"/api/notice/checkKid/abc","responsestatus":200,"responsetime":0.033,"tags":["_grokparsefailure"],"@version":"1","@timestamp":"2019-03-05T09:30:26.820Z"}
+{"loglevel":"info","host":"testing_host","abcd":"0.888:0.888","apimethod":"abc","responsestatus":200,"responsetime":0.888,"tags":["_grokparsefailure"],"@version":"1","@timestamp":"2019-03-05T09:30:26.820Z"}

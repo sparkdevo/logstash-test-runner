@@ -1,0 +1,4 @@
+{"loglevel":"debug","host":"testing_host","responsestatus":200,"responsetime":27.0,"@version":"1","@timestamp":"2019-03-05T09:30:26.823Z"}
+{"loglevel":"info","host":"testing_host","responsestatus":200,"responsetime":0.033,"@version":"1","@timestamp":"2019-03-05T09:30:26.820Z"}
+{"tags":["_grokparsefailure"],"loglevel":"info","host":"testing_host","@version":"1","@timestamp":"2019-03-05T09:30:26.820Z"}
+{"loglevel":"info","host":"testing_host","responsestatus":200,"responsetime":0.888,"@version":"1","@timestamp":"2019-03-05T09:30:26.820Z"}
