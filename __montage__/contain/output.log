@@ -1,0 +1,2 @@
+{"host":"testing_host","message":"2019-07-08 08:24:40.525 +00:00 [INF] azuretest, method:GET","@version":"1","@timestamp":"2019-03-05T09:30:26.820Z"}
+{"host":"testing_host","message":"2019-07-08 08:24:40.525 +00:00 [INF] env, method:GET","@version":"1","@timestamp":"2019-03-05T09:30:26.820Z"}

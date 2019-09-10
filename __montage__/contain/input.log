@@ -1,0 +1,5 @@
+#Software: Microsoft Internet Information Services 10.0
+#Version: 1.0
+#Date: 2019-09-03 09:00:00
+2019-09-04 23:41:06 W3SVC1273337584 RD0003FF7C4C79 10.218.0.4 GET / - 80 - 189.110.64.102 HTTP/1.1 Mozilla/5.0+(Windows+NT+6.1;+WOW64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/52.0.2743.116+Safari/537.36 - - 13.78.56.200:80 403 0 0 2147 183 617
+2019-09-03 08:56:03 W3SVC1273337584 RD00155D0B8481 10.218.0.5 GET /wang/App/Home/QA - 443 - 61.114.199.120 HTTP/1.1 - - - lsg.grapecity.com 200 0 0 11930 83 109
